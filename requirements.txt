@@ -1,5 +1,6 @@
 absl-py==1.3.0
 astunparse==1.6.3
+autopep8==2.0.0
 bleach==5.0.1
 cachetools==5.2.0
 certifi==2022.9.24
@@ -40,6 +41,7 @@ pkginfo==1.8.3
 protobuf==3.19.6
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycodestyle==2.9.1
 pycparser==2.21
 Pygments==2.13.0
 pyloco==0.0.139
@@ -62,6 +64,7 @@ tensorflow==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.1.1
+tomli==2.0.1
 twine==4.0.1
 typing==3.7.4.3
 typing_extensions==4.4.0
